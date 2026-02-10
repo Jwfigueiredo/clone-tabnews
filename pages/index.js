@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Só quem se arrisca merece viver o extraordinário</h1>
+    return <h1>Só quem se arrisca merece viver o extraordinário!!!</h1>
 }
 export default Home;
